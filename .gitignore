@@ -1,7 +1,7 @@
 # Android generated
 bin
 gen
-libs
+# libs
 obj
 lint.xml
 
